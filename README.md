@@ -16,11 +16,11 @@ published and ready to use in this repository.
 
 [**Installation**](#installation)
 &nbsp; &nbsp; &vert; &nbsp; &nbsp;
-[Connecting to Mastodon](#Connecting to Mastodon)
+[Connecting to Mastodon](#connecting-to-mastodon)
 &nbsp; &nbsp; &vert; &nbsp; &nbsp;
-[Try coding it yourself](#Try coding it yourself or)
+[Try coding it yourself](#try-coding-it-yourself-or)
 &nbsp; &nbsp; &vert; &nbsp; &nbsp;
-[Apply solution to Mastodon](#Apply solution to Mastodon)
+[Apply solution to Mastodon](#apply-solution-to-mastodon)
 
 
 ---
